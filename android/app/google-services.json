@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "848520235121",
+    "firebase_url": "https://qualaboa-f3c9f-default-rtdb.firebaseio.com",
+    "project_id": "qualaboa-f3c9f",
+    "storage_bucket": "qualaboa-f3c9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848520235121:android:cd4aceec760b3c492db3d0",
+        "android_client_info": {
+          "package_name": "com.meuprimeiroprojeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848520235121-fhfbs7hkflt7jqndig4msi5g7c442m3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaTsoGAObhg0z8fpaCEc11qtexWnz2ZDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848520235121-fhfbs7hkflt7jqndig4msi5g7c442m3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
