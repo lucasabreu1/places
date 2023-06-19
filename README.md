@@ -3,7 +3,7 @@
 Essa aplicação é um projeto pessoal que tocando para treinar minhas habilidades em React Native.
 Trata-se de um app que sugere lugares para sair para se divertir :)
 
-Estou utilizando um banco de dados FireStore para armazenar os "places" ou lugares recomendados.
+Estou utilizando o banco de dados FireBase para armazenar os "places" ou lugares recomendados.
 
 A idéia é evoluir esse app a cada semana com aluma coisa diferente.
 
